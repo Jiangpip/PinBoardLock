@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pinterest 调研单"
+  short_description: "把图片调研需求整理成 PinBoardLock 调研单并存进文件夹"
+  default_prompt: "Use $pin-research to turn this request into a Pinterest research sheet and save it."

@@ -1,0 +1,10 @@
+{
+  "extractor": {
+    "pinterest": {
+      "videos": false,
+      "sleep-request": [0.5, 1.5],
+      "board": { "directory": [] },
+      "section": { "directory": ["{section[title]}"] }
+    }
+  }
+}

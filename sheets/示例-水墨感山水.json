@@ -1,0 +1,30 @@
+{
+  "title": "水墨感山水（示例）",
+  "board": "风格调研-水墨感",
+  "folder": "水墨收集",
+  "note": "示例调研单：试流程用，关键词可以随便改",
+  "groups": [
+    {
+      "name": "河面雾气",
+      "note": "看雾怎么压住远山、留白占多少",
+      "keywords": ["karst river mist", "li river morning fog", "ink wash river landscape", "漓江 晨雾", "misty mountains chinese painting"]
+    },
+    {
+      "name": "峰林剪影",
+      "note": "逆光下山的轮廓和层次",
+      "keywords": ["guilin mountains silhouette", "layered mountains fog", "karst peaks sunrise", "shan shui silhouette"]
+    },
+    {
+      "name": "笔触与留白",
+      "section": "笔触",
+      "note": "干湿笔、飞白、边缘怎么收",
+      "keywords": ["sumi-e brush strokes", "chinese ink wash texture", { "q": "wu guanzhong landscape", "note": "吴冠中" }, "negative space ink painting"]
+    },
+    {
+      "name": "散图",
+      "section": false,
+      "note": "不分区，直接进收藏夹",
+      "keywords": ["yangshuo bamboo raft", "stylized karst concept art"]
+    }
+  ]
+}

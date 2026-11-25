@@ -1,0 +1,21 @@
+# 安装脚本按本机生成（里面有本机路径、扩展 ID）
+host/config.json
+host/com.pinboardlock.host.json
+host/pbl-host.cmd
+# 同步时生成：收藏夹链接（含 Pinterest 用户名）、进度、Billfish 数据库备份
+sync/boards.json
+sync/last-run.json
+sync/last-run.request.json
+sync/backups/
+# 自己的调研单不进仓库，只留示例
+sheets/*.json
+!sheets/示例-*.json
+# 隐私词私表
+*.local.txt
+# 杂项
+*.tmp
+*.log
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
